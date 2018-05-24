@@ -1,4 +1,4 @@
-# grok_flutter
+# Grok flutter
 
 Grokking Flutter application.
 
